@@ -1,30 +1,6 @@
-# Documentation
-
-Welcome to the `docs` folder of the **AI-LLM-Security** project. This directory contains whitepapers, research articles, and best practice guidelines related to the project. Below is an outline of the content and its purpose.
-
-## Purpose
-
-The `docs` folder serves as a comprehensive resource for:
-
-- **Whitepapers:** In-depth studies and technical papers exploring AI and LLM security challenges and solutions.
-- **Research Articles:** Scholarly and industry research providing insights into security practices for AI systems.
-- **Best Practice Guidelines:** Practical advice and methodologies to ensure secure implementation and operation of AI and LLM systems.
-
-## Structure
-
-The folder is organized as follows:
-
-```
-/docs
-├── Whitepapers         # Comprehensive technical and research papers
-├── Research_Articles    # Scholarly articles and insights
-└── Best_Practices       # Security guidelines and methodologies
-```
-
-## Key Sections
 
 ### 1. Whitepapers
-Explore detailed research and analysis on AI-LLM security, including theoretical frameworks, case studies, and innovative approaches to tackle emerging threats.
+## Explore detailed research and analysis on AI-LLM security, including theoretical frameworks, case studies, and innovative approaches to tackle emerging threats.
 
 1- [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/download/43299/?tmstv=1731900559)
 
