@@ -11,6 +11,7 @@ This repository is dedicated to enhancing the security of Artificial Intelligenc
 - **Case Studies:** Real-world examples of AI/LLM attacks with insights into how they were executed and mitigated.
 - **Tools and Scripts:** Scripts and utilities for testing and hardening AI systems, including adversarial input generators, data sanitization tools, and monitoring frameworks.
 - **Guidelines:** Step-by-step guides for implementing robust security controls in AI workflows.
+- **GRC Policies:** Documentation on Governance, Risk, and Compliance (GRC) policies tailored for AI systems, ensuring alignment with organizational and regulatory requirements.
 
 ## Contents
 
@@ -18,6 +19,7 @@ This repository is dedicated to enhancing the security of Artificial Intelligenc
 - `/case-studies`: Documented incidents of AI/LLM security breaches, along with lessons learned.
 - `/tools`: Open-source tools for testing and securing AI systems.
 - `/docs`: Whitepapers, research articles, and best practice guidelines.
+- `/GRC`: Documentation on GRC policies, including risk assessments, compliance checklists, and governance frameworks for AI systems.
 - `/scripts`: Python scripts for common security tasks such as anomaly detection and input validation.
 
 ## Getting Started
@@ -32,7 +34,7 @@ This repository is dedicated to enhancing the security of Artificial Intelligenc
    Navigate to the `/tools` directory to find security testing utilities. Each tool comes with its own README for installation and usage instructions.
 
 3. **Read the documentation**:
-   Visit the `/docs` folder for in-depth resources and tutorials on securing AI/LLM systems.
+   Visit the `/docs` and `/GRC` folders for in-depth resources and tutorials on securing AI/LLM systems and implementing effective GRC policies.
 
 4. **Contribute**:
    We welcome contributions! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on submitting pull requests.
@@ -56,3 +58,4 @@ For questions, suggestions, or collaboration opportunities, feel free to open an
 ---
 
 ### Let’s work together to secure the future of AI! 🚀
+
