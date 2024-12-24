@@ -16,10 +16,10 @@ This repository is dedicated to enhancing the security of Artificial Intelligenc
 ## Contents
 
 - [`/threat-models`](/threat-models): Detailed threat models for various AI and LLM applications.
-- `/case-studies`: Documented incidents of AI/LLM security breaches, along with lessons learned.
-- `/tools & scripts`: Open-source tools for testing and securing AI systems and  Scripts for common security tasks such as anomaly detection and input validation.
-- `/docs`: Whitepapers, research articles, and best practice guidelines.
-- `/GRC`: Documentation on GRC policies, including risk assessments, compliance checklists, and governance frameworks for AI systems.
+- [`/case-studies`](/case-studies): Documented incidents of AI/LLM security breaches, along with lessons learned.
+- [`/tools & scripts`](/tools & scripts): Open-source tools for testing and securing AI systems and  Scripts for common security tasks such as anomaly detection and input validation.
+- [`/docs](/docs)`: Whitepapers, research articles, and best practice guidelines.
+- [`/GRC`](GRC): Documentation on GRC policies, including risk assessments, compliance checklists, and governance frameworks for AI systems.
 
 
 ## Getting Started
