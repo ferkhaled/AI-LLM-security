@@ -25,6 +25,7 @@ The folder is organized as follows:
 
 ### 1. Whitepapers
 Explore detailed research and analysis on AI-LLM security, including theoretical frameworks, case studies, and innovative approaches to tackle emerging threats.
+
 1- [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/download/43299/?tmstv=1731900559)
 
 ### 2. Research Articles
