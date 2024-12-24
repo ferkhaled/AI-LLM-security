@@ -20,7 +20,7 @@ This repository is dedicated to enhancing the security of Artificial Intelligenc
 - `/tools`: Open-source tools for testing and securing AI systems.
 - `/docs`: Whitepapers, research articles, and best practice guidelines.
 - `/GRC`: Documentation on GRC policies, including risk assessments, compliance checklists, and governance frameworks for AI systems.
-- `/scripts`: Python scripts for common security tasks such as anomaly detection and input validation.
+- `/scripts`: Scripts for common security tasks such as anomaly detection and input validation.
 
 ## Getting Started
 
