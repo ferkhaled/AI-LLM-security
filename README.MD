@@ -53,7 +53,7 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions, suggestions, or collaboration opportunities, feel free to open an issue or contact us at [your-email@example.com](mailto:your-email@example.com).
+For questions, suggestions, or collaboration opportunities, feel free to open an issue or contact us at [ferkhaled2004@gmail.com](mailto:ferkhaled2004@gmail.com).
 
 ---
 
