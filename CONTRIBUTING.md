@@ -6,13 +6,7 @@ We welcome contributions to the AI/LLM Security Repository! Whether you're fixin
 
 ## How to Contribute
 
-### 1. **Report an Issue**
-If you encounter a bug, vulnerability, or have a suggestion, please [open an issue](https://github.com/ferkhaled/ai-llm-security/issues) on GitHub. Provide as much detail as possible, including:
-- A clear and descriptive title.
-- Steps to reproduce the issue (if applicable).
-- Suggested improvements or fixes.
-
-### 2. **Fork the Repository**
+### 1. **Fork the Repository**
 To make changes to the repository:
 1. Fork this repository to your GitHub account.
 2. Clone the forked repository to your local machine:
@@ -21,37 +15,37 @@ To make changes to the repository:
    cd ai-llm-security
    ```
 
-### 3. **Create a Branch**
+### 2. **Create a Branch**
 Create a new branch for your changes:
 ```bash
 git checkout -b feature/your-feature-name
 ```
 Use a meaningful name for your branch, such as `bugfix/specific-issue` or `feature/add-new-tool`.
 
-### 4. **Make Your Changes**
+### 3. **Make Your Changes**
 - Follow the repository’s coding standards and conventions.
 - Ensure that your changes are well-documented.
 - Add or update test cases for new features or bug fixes.
 
-### 5. **Test Your Changes**
+### 4. **Test Your Changes**
 Before submitting your changes, test them thoroughly to ensure they work as expected. This includes:
 - Running any provided test scripts.
 - Ensuring compatibility with existing features.
 
-### 6. **Commit Your Changes**
+### 5. **Commit Your Changes**
 Write a clear and concise commit message:
 ```bash
 git add .
 git commit -m "Brief description of your changes"
 ```
 
-### 7. **Push to Your Fork**
+### 6. **Push to Your Fork**
 Push your branch to your forked repository:
 ```bash
 git push origin feature/your-feature-name
 ```
 
-### 8. **Submit a Pull Request**
+### 7. **Submit a Pull Request**
 1. Navigate to the original repository on GitHub.
 2. Click on the **Pull Requests** tab and then **New Pull Request**.
 3. Select your branch and provide a clear description of the changes in the pull request.
@@ -64,11 +58,6 @@ git push origin feature/your-feature-name
 - **Follow Standards:** Adhere to the repository’s coding and documentation standards.
 - **Submit Complete Contributions:** Ensure your contributions are complete and well-tested.
 - **Provide Context:** Explain why your changes are necessary and how they improve the repository.
-
----
-
-## Code of Conduct
-By participating in this project, you agree to uphold the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 
