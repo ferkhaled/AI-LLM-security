@@ -16,15 +16,16 @@ The folder is organized as follows:
 
 ```
 /docs
-├── Whitepapers/          # Comprehensive technical and research papers
-├── Research_Articles/    # Scholarly articles and insights
-└── Best_Practices/       # Security guidelines and methodologies
+├── Whitepapers         # Comprehensive technical and research papers
+├── Research_Articles    # Scholarly articles and insights
+└── Best_Practices       # Security guidelines and methodologies
 ```
 
 ## Key Sections
 
 ### 1. Whitepapers
 Explore detailed research and analysis on AI-LLM security, including theoretical frameworks, case studies, and innovative approaches to tackle emerging threats.
+1- [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/download/43299/?tmstv=1731900559)
 
 ### 2. Research Articles
 Access a collection of articles curated from industry and academia, focusing on cutting-edge advancements in AI and LLM security.
